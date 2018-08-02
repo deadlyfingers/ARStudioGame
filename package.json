@@ -1,0 +1,11 @@
+{
+  "name": "arstudiogame",
+  "version": "0.0.1",
+  "description": "ARStudio Azure Functions hack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
